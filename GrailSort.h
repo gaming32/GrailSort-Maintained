@@ -21,7 +21,7 @@
 /*********************************************************/
 
 #include<memory.h>
-#include<malloc.h>
+#include<stdlib.h>
 #define GRAIL_EXT_BUFFER_LENGTH 512
 
 inline void grail_swap1(SORT_TYPE *a,SORT_TYPE *b){
